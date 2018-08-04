@@ -1,8 +1,10 @@
+![example image](./example.png)
+
 # What is it?
 2018년 8월 4일 perl x ruby 2018 모임에서 발표한 자료 입니다.
 Ruby on Rails 5.1 에 추가된 webpacker 사용해보기 라이브 코딩 할때 작성된 코드를 다음어서 올립니다.
 
-# entry
+# Webpacker Tree
 ```
 javascript
 ├── packs
