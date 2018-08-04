@@ -1,0 +1,1 @@
+import './sigong.gif'
