@@ -23,3 +23,6 @@ javascript
 # webpack-dev-server
 전통적인 `rails s` 명령어로 서버를 실행하면 webpack도 같이 실행되므로 신경 쓸 필요 없습니다.
 하지만 개발을 좀 더 윤택하게 하게 해주는 [hot module reloading](https://medium.com/rubyinside/hot-module-reloading-with-webpacker-b663643a60b1)을 사용하고 싶다면 `bin/webpack-dev-server`를 터미널에서 추가로 실행하세요.
+
+# slide share
+발표에 사용된 슬라이드입니다. https://www.slideshare.net/say8425/rails-js
